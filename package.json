@@ -1,0 +1,12 @@
+{
+  "name": "node28",
+  "version": "1.0.0",
+  "description": "tao ngay 28 thang 10 16",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
